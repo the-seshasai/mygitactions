@@ -1,3 +1,7 @@
+name: sesh
+
+on: push
+
 jobs:
   test:
     steps:
